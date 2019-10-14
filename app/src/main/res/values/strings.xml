@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MAD_ABC_Clothing</string>
+    <string name="AddEmployee">Add Employee</string>
+    <string name="EditEmployee">Edit Employee</string>
+    <string name="SearchEmployee">Search Employee</string>
+    <string name="Name">Name</string>
+    <string name="Telephone">Telephone</string>
+    <string name="Email">Email</string>
+    <string name="Gender">Gender</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="EmployeeType">Employee Type</string>
+    <string name="Permanent">Permanent</string>
+    <string name="Temporary">Temprary</string>
+    <string name="EmployeeID">Employee ID</string>
+    <string name="EmployeeName">EmployeeName</string>
+    <string name="EmployeeGender">Employee Gender</string>
+    <string name="EmployeeTelephone">Employee Telephone</string>
+    <string name="Search">Search</string>
+</resources>
